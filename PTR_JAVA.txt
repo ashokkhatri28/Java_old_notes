@@ -1,0 +1,17 @@
+A java class is the example of encapsulation. Java bean is the fully encapsulated class because all the data members are private here.
+Method overloading increases the readability of the program.
+
+There are four main layers in Spring Boot: 
+1:Presentation Layer PL
+2:Data Access Layer DAL
+3:Service Layer SL
+4:Integration Layer IL
+
+Spring MVC framework consists of four components :
+1: Model
+2: View, 
+3: Controller, 
+4: Front Controller.
+
+
+Spring MVC is a model view controller-based web framework under the Spring framework.
